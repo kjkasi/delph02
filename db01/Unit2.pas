@@ -8,8 +8,10 @@ uses
 type
   TDataModule2 = class(TDataModule)
     ADOConnection1: TADOConnection;
-    ADOTable1: TADOTable;
+    ADOTableParts: TADOTable;
     DataSource1: TDataSource;
+    ADOTableOrders: TADOTable;
+    DataSource2: TDataSource;
   private
     { Private declarations }
   public
