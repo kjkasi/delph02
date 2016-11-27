@@ -1,0 +1,17 @@
+ADOConnection:
+	1. Name
+	2. ConnectionString
+	3. LoginPrompt
+	4. Connected
+ADOTable:
+	1. Name
+	2. Connection
+	3. TableName
+	4. Active
+	5. ReadOnly
+	6. MasterSource
+	7. MasterFields
+DataSource:
+	1. DataSet
+DBGrid:
+	1. DataSource
