@@ -15,3 +15,8 @@ DataSource:
 	1. DataSet
 DBGrid:
 	1. DataSource
+
+ADOQuery:
+	1. Name
+	2. Connection
+	3. SQL
